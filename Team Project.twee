@@ -1,0 +1,22 @@
+:: StoryTitle
+Team Project
+
+
+:: StoryData
+{
+  "ifid": "8B45B039-E1E9-4BEB-9264-B174AC1179D9",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "#1",
+  "zoom": 1
+}
+
+
+:: #1 {"position":"1225,525","size":"100,100"}
+Test
+
+
+
+:: Untitled Passage {"position":"1475,525","size":"100,100"}
+Test 2
+
